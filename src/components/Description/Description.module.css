@@ -1,0 +1,13 @@
+.title {
+  font-style: italic;
+  font-size: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 20px;
+}
